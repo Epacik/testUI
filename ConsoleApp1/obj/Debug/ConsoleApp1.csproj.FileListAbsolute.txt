@@ -1,0 +1,12 @@
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\Conari.dll
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\WpfUI.dll
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\WpfUI.pdb
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\bin\Debug\Conari.xml
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Epat\source\repos\testUI\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

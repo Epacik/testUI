@@ -1,0 +1,13 @@
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.cache
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1_MarkupCompile.lref
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.deps.json
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\bin\Debug\netcoreapp3.1\WpfLibrary1.pdb
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.g.resources
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.AssemblyInfo.cs
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.dll
+C:\Users\Epat\source\repos\testUI\WpfLibrary1\obj\Debug\netcoreapp3.1\WpfLibrary1.pdb

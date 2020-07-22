@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DllExport/1.7.3": {}
+    }
+  },
+  "libraries": {
+    "DllExport/1.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MnrUxZfVjU85Kh3MDfq7c+q/zBqSXHridpLgpB66UDt3cWl/Bx7J1bRkyYuwfEkpHiDlqZwWQquTaf3lELQgDA==",
+      "path": "dllexport/1.7.3",
+      "hashPath": "dllexport.1.7.3.nupkg.sha512"
+    }
+  }
+}

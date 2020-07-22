@@ -1,0 +1,2 @@
+C:\Users\Epat\source\repos\testUI\ConsoleApplication1\Debug\ConsoleApplication1.vcxproj.CopyComplete
+C:\Users\Epat\source\repos\testUI\ConsoleApplication1\Debug\ConsoleApplication1.vcxprojAssemblyReference.cache

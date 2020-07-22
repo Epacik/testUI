@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WpfLibrary1/1.0.0": {
+        "dependencies": {
+          "DllExport": "1.7.3"
+        },
+        "runtime": {
+          "WpfLibrary1.dll": {}
+        }
+      },
+      "DllExport/1.7.3": {}
+    }
+  },
+  "libraries": {
+    "WpfLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DllExport/1.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MnrUxZfVjU85Kh3MDfq7c+q/zBqSXHridpLgpB66UDt3cWl/Bx7J1bRkyYuwfEkpHiDlqZwWQquTaf3lELQgDA==",
+      "path": "dllexport/1.7.3",
+      "hashPath": "dllexport.1.7.3.nupkg.sha512"
+    }
+  }
+}
