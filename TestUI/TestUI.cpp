@@ -61,18 +61,6 @@ int main()
 	DestroyUserInterface = (DestroyUserInterfaceFunc)GetProcAddress
 	(dotNetGUILibrary, "DestroyUserInterface");
 
-	typedef void(__cdecl* AllocMsgFunc)();
-	typedef void(__cdecl* FreeMsgFunc)();
-
-	((AllocMsgFunc)GetProcAddress(dotNetGUILibrary, "AllocMsg"))();
-
-	typedef TCHAR* (*GetMsg)();
-
-	auto pGetMsg = (GetMsg)GetProcAddress(dotNetGUILibrary, "GetMsg");
-	const TCHAR* Msg = pGetMsg();
-
-	((FreeMsgFunc)GetProcAddress(dotNetGUILibrary, "FreeMsg"))();
-
 	/// Defining Our Host Window Class
 	HostWindowClass.cbSize = sizeof(WNDCLASSEX); HostWindowClass.lpfnWndProc = HostWindowProc;
 	HostWindowClass.hCursor = LoadCursor(NULL, IDC_ARROW);
@@ -162,6 +150,19 @@ int main()
 		DispatchMessage(&loop_message);
 	}
 
+	typedef void(*AllocMsgFunc)();
+	typedef void(*FreeMsgFunc)();
+
+	((AllocMsgFunc)GetProcAddress(dotNetGUILibrary, "AllocMsg"))();
+
+	typedef wchar_t* (*GetMsg)();
+
+	auto pGetMsg = (GetMsg)GetProcAddress(dotNetGUILibrary, "GetMsg");
+	const wchar_t* Msg = pGetMsg();
+
+	((FreeMsgFunc)GetProcAddress(dotNetGUILibrary, "FreeMsg"))();
+
+	FreeLibrary(dotNetGUILibrary);
 	std::cout << "C++ Main App Finished." << std::endl;
 	getchar();
 }

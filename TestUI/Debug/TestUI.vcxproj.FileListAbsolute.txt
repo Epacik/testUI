@@ -1,2 +1,0 @@
-C:\Users\Epat\source\repos\testUI\TestUI\Debug\TestUI.vcxprojAssemblyReference.cache
-C:\Users\Epat\source\repos\testUI\TestUI\Debug\TestUI.vcxproj.CopyComplete
